@@ -1,4 +1,3 @@
-
 <!--
 **albertomoiseisdev/albertomoiseisdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,32 +15,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 # Alberto Moiseis
+
 <h3 align="left">
  <abc>
-  Desenvolvedor Front End - Stack JS* 
+  Desenvolvedor Front End - JS*
  </abc>
-</h3> 
+</h3>
 <h4 align="left">
  <abc>
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"><br>
-  Estou focado em aprender a stack javascript, me especializar na linguagem e seus frameworks, tenho ambição de ser fullstack.
+	<img src="https://gph.is/g/4A19dnQ" alt="Coder GIF" width="500" height="400"><br>
+  Stack JS
  </abc>
-</h4> 
+</h4>
 
-### Redes Sociais: 
+### Redes Sociais:
 
-[![Linkedin Badge](https://img.shields.io/badge/-albertomoiseis-3b5998?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alberto-moiseis/)](https://www.linkedin.com/in/alberto-moiseis/) 
+[![Linkedin Badge](https://img.shields.io/badge/-albertomoiseis-3b5998?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alberto-moiseis/)](https://www.linkedin.com/in/alberto-moiseis/)
 [![Facebook Badge](https://img.shields.io/badge/-albertomoiseis-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/albertomoiseis.dev)](https://www.facebook.com/albertomoiseis.dev)
 
 ## 🚀 Sempre em constante aprendizado!
+
 ### 🚀 Cursos:
 
 - Origamid;<br>
 - Udemy:<br>
- -- ReactJS, Hooks, TDD, Clean Architecture, SOLID e Patterns;<br>
- -- NodeJs, Typescript, TDD, Clean Architecture e SOLID;<br>
- -- React Avançado: Crie aplicações com NextJS, Strapi, GraphQL e ++;<br>
+  -- ReactJS, Hooks, TDD, Clean Architecture, SOLID e Patterns;<br>
+  -- NodeJs, Typescript, TDD, Clean Architecture e SOLID;<br>
+  -- React Avançado: Crie aplicações com NextJS, Strapi, GraphQL e ++;<br>
 
 ### 🎯 Tecnologias / Frameworks que estou Estudando:
 
@@ -66,4 +68,3 @@ Here are some ideas to get you started:
 - Design Patterns;<br>
 - SOLID;<br>
 - TDD;<br>
-
