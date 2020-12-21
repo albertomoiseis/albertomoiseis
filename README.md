@@ -25,17 +25,17 @@ Here are some ideas to get you started:
 </h3>
 <h4 align="left">
  <abc>
-	<img src="https://gph.is/g/4A19dnQ" alt="Coder GIF" width="500" height="400"><br>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"><br>
   Stack JS
  </abc>
 </h4>
 
-### Redes Sociais:
+## Redes Sociais:
 
 [![Linkedin Badge](https://img.shields.io/badge/-albertomoiseis-3b5998?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alberto-moiseis/)](https://www.linkedin.com/in/alberto-moiseis/)
 [![Facebook Badge](https://img.shields.io/badge/-albertomoiseis-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/albertomoiseis.dev)](https://www.facebook.com/albertomoiseis.dev)
 
-## 🚀 Sempre em constante aprendizado!
+## Sempre em constante aprendizado!
 
 ### 🚀 Cursos:
 
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   -- NodeJs, Typescript, TDD, Clean Architecture e SOLID;<br>
   -- React Avançado: Crie aplicações com NextJS, Strapi, GraphQL e ++;<br>
 
-### 🎯 Tecnologias / Frameworks que estou Estudando:
+## 🎯 Tecnologias / Frameworks que estou Estudando:
 
 <code> <img height = "32" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt = "HTML5" /> </code>
 <code> <img height = "32" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt = "CSS" /> </code>
@@ -57,12 +57,12 @@ Here are some ideas to get you started:
 <code> <img height = "32" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt = "PostegreSQL" /> </code>
 <code> <img height = "32" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt = "MongoDB" /> </code>
 
-### DevOps :
+## DevOps :
 
 <code> <img height = "32" src = "https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt = "GitHub" /> </code>
 <code> <img height = "32" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt = "Git" /> </code>
 
-### 🛸 Conteúdos que desejo conhecer e me especializar:
+## 🛸 Conteúdos que desejo conhecer e me especializar:
 
 - Clean Architecture;<br>
 - Design Patterns;<br>
